@@ -1,4 +1,4 @@
-# 
+# professional MEV arbitrage bot plugins is the best MEV arbitrage bot plugins with auto-buy and honeypot-detection. Safe, reliable, and optimized for MEV, sniper, and arbitrage
 
 
 
